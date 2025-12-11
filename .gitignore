@@ -4,3 +4,6 @@
 # Docker volumes
 mysql_data/
 dragonfly_data/
+
+# VS Code history
+.history/
