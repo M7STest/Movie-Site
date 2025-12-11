@@ -1,0 +1,6 @@
+# Docker environment file
+.env
+
+# Docker volumes
+mysql_data/
+dragonfly_data/
